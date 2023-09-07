@@ -1,0 +1,30 @@
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.exe
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.deps.json
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.runtimeconfig.json
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.dll
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.pdb
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.dll
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\refint\Exam system.dll
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.pdb
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\Exam system solution\Exam system\obj\Debug\net6.0\ref\Exam system.dll
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.exe
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.deps.json
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.runtimeconfig.json
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.dll
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\bin\Debug\net6.0\Exam system.pdb
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.dll
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\refint\Exam system.dll
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.pdb
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\Exam system.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\ASP.net back end\02 C#\C# Exam\Exam system solution\Exam system\obj\Debug\net6.0\ref\Exam system.dll
